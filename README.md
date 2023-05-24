@@ -1,6 +1,7 @@
 # ¡Hola! 👋 Soy Bryan S. Guevara,
 
 👀## Acerca de mí
+
 Mi formación académica la realicé en el Instituto de Automática de la Universidad Nacional de San Juan, donde adquirí conocimientos sólidos en ingeniería de sistemas de control y su aplicación en diversos campos.
 
 🌱## Áreas de interés
