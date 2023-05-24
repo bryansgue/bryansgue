@@ -27,7 +27,7 @@ Mi formación académica la realicé en el Instituto de Automática de la Univer
 
 ## Contacto
 - Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
-- LinkedIn: [Tu perfil de LinkedIn](https://www.linkedin.com/in/bryansgue/)
-- Sitio web: [Tu sitio web personal](bryansgue.me)
+- LinkedIn: [linkedin.com/in/bryansgue/](https://www.linkedin.com/in/bryansgue/)
+- Sitio web: [bryansgue.me](bryansgue.me)
 
 ¡No dudes en contactarme si estás interesado en colaborar en proyectos relacionados con robótica aérea, control predictivo o estimación de estados! Estoy abierto a nuevas oportunidades y contribuciones emocionantes en el campo de la ingeniería de sistemas de control.
