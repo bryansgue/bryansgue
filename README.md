@@ -6,7 +6,8 @@ Mi formación académica la realicé en el Instituto de Automática de la Univer
 
 🌱## Áreas de interés
 - Robótica aérea
-- Control predictivo
+- Control optimo
+- Sistema subactuados
 - Estimación de estados
 - Sistemas de control avanzados
 
