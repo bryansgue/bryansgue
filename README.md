@@ -1,33 +1,38 @@
-# ¡Hola! 👋 Soy Bryan S. Guevara,
+Hello! 👋 I'm Bryan S. Guevara,
 
-👀## Acerca de mí
+👀 About Me
 
-Mi formación académica la realicé en el Instituto de Automática de la Universidad Nacional de San Juan, donde adquirí conocimientos sólidos en ingeniería de sistemas de control y su aplicación en diversos campos.
+I completed my academic training at the Institute of Automation at the National University of San Juan, where I gained solid knowledge in control systems engineering and its application in various fields.
 
-🌱## Áreas de interés
-- Robótica aérea
-- Control optimo
-- Sistema subactuados
-- Estimación de estados
-- Sistemas de control avanzados
+🌱 Areas of Interest
 
-💞️## Experiencia
-- Desarrollo de algoritmos de control para vehículos aéreos no tripulados (UAVs).
-- Implementación de técnicas de estimación de estados en sistemas de control.
-- Investigación en el campo de la robótica aérea y la optimización de algoritmos de control.
+    Aerial robotics
+    Optimal control
+    Underactuated systems
+    State estimation
+    Advanced control systems
 
-📫## Proyectos destacados
-- [Proyecto X:](enlace al proyecto) Descripción breve del proyecto y tu contribución.
-- [Proyecto Y:](enlace al proyecto) Descripción breve del proyecto y tu contribución.
+💞️ Experience
 
-## Educación
-- Doctor en Ingeniería de Sistemas de Control, Instituto de Automática, Universidad Nacional de San Juan.
-- Maestría en Ingeniería de Sistemas de Control, Instituto de Automática, Universidad Nacional de San Juan.
-- Licenciatura en Ingeniería de Control, Instituto de Automática, Universidad Nacional de San Juan.
+    Developed control algorithms for unmanned aerial vehicles (UAVs).
+    Implemented state estimation techniques in control systems.
+    Researched in the field of aerial robotics and optimization of control algorithms.
 
-## Contacto
-- Correo electrónico: [tucorreo@example.com](mailto:tucorreo@example.com)
-- LinkedIn: [linkedin.com/in/bryansgue/](https://www.linkedin.com/in/bryansgue/)
-- Sitio web: [bryansgue.me](bryansgue.me)
+📫 Highlighted Projects
 
-¡No dudes en contactarme si estás interesado en colaborar en proyectos relacionados con robótica aérea, control predictivo o estimación de estados! Estoy abierto a nuevas oportunidades y contribuciones emocionantes en el campo de la ingeniería de sistemas de control.
+    [Project X:](project link) Brief project description and your contribution.
+    [Project Y:](project link) Brief project description and your contribution.
+
+Education
+
+    Doctor in Control Systems Engineering, Institute of Automation, National University of San Juan.
+    Master's in Control Systems Engineering, Institute of Automation, National University of San Juan.
+    Bachelor's in Control Engineering, Institute of Automation, National University of San Juan.
+
+Contact
+
+    Email: youremail@example.com
+    LinkedIn: linkedin.com/in/bryansgue/
+    Website: bryansgue.me
+
+Feel free to reach out if you're interested in collaborating on projects related to aerial robotics, predictive control, or state estimation! I'm open to new opportunities and exciting contributions in the field of control systems engineering.
